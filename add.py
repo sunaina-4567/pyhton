@@ -1,0 +1,17 @@
+a=3
+b=4
+f='hello'
+c=a+b
+d=a-b
+m=a*b
+n=a/b
+print(c)
+print(d)
+print(m)
+print(n)
+print(f)
+print(type(c))
+print(type(d))
+print(type(m))
+print(type(n))
+print(type(f))
